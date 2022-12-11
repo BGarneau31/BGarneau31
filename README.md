@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #  About Me:
-Hi, I’m Ben.<br>A student of Biomedical Engineering focusing on software at the University of Rhode Island.<br>I’m a current software research assistant working on an EEG-based brain computer interface for attention research and machine learning analysis.<br>I have a passion for learning and am looking to utilize my programming and analytical skills to become a software engineer.<br>Currently learning more about AWS Cloud and databases.<br>Shoot me an email or add me on LinkedIn!<br><br>
+Hi, I’m Ben.<br>A student of Biomedical Engineering focusing on software at the University of Rhode Island.<br>I’m a current software research assistant working on an EEG-based brain computer interface for attention research and machine learning analysis.<br>I have a passion for learning and am looking to utilize my programming and analytical skills to become a software engineer.<br>Currently learning more about Javascript/React and databases.<br>Shoot me an email or add me on LinkedIn!<br><br>
 
 
 ## 🌐 Socials:
