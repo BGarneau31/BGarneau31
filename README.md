@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #  About Me:
-Hi, I’m Ben.<br>A Biomedical Engineering graduate from the University of Rhode Island.<br>I’m a current communications and tactical systems engineer and previously a software research assistant that worked on an EEG-based brain computer interface for attention research and machine learning analysis.<br>I have a passion for learning and am looking to utilize my programming and analytical skills to grow as a better engineer.<br>Currently learning more about AWS and databases.<br>Shoot me an email or add me on LinkedIn!<br><br>
+Hi, I’m Ben.<br>A Engineering graduate from the University of Rhode Island.<br>I’m a current systems engineer and previously a software research assistant that worked on an EEG-based brain computer interface for attention research and machine learning analysis.<br>I have a passion for learning and am looking to utilize my programming, data, and analytical skills to grow as a better engineer.<br>Currently learning more about AWS and databases.<br>Shoot me an email or add me on LinkedIn!<br><br>
 
 
 ## 🌐 Socials:
